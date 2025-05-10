@@ -1,0 +1,11 @@
+kagglehub
+opencv-python
+tensorflow
+numpy
+tqdm
+ipykernel
+matplotlib
+scikit-image
+pillow
+tensorflow_hub
+streamlit
